@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://Robson55.github.io/ProjektGrupa9",
+  "homepage": "https://github.com/DawidKrupski/Grupa-9-",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ProjektGrupa9"
+    "build": "parcel build src/*.html --public-url /Grupa-9-"
   },
   "repository": {
     "type": "git",
